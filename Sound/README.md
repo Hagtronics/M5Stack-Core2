@@ -1,4 +1,5 @@
 ** Sound Routines for M5Stack Core2 using internal speaker **  
+** Based on the M5Stack Atom Speaker code **
    
 This directory is for VS Code, running Platform IO Extension  
   

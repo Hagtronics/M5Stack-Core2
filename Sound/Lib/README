@@ -1,3 +1,5 @@
+This is the directory structure for VS Code running PlatformIO extension
+See PlatformIO documentation for further help
 
 This directory is intended for project specific (private) libraries.
 PlatformIO will compile them to static libraries and link into executable file.

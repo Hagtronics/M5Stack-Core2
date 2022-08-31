@@ -57,10 +57,7 @@ extern "C" {
  */
 extern int32_t soundsPlay(const unsigned char *snd, size_t size);
 
-// 
-//   FreqHz = Frequency in Hz, Range: 1000 to 5000 Hz
-//   timeMs = Time duration in mSec, Range: 100 to 1000 mSec
-//   volume = Volume level in %, Range: 0 to 100%
+
 /**
  * @brief Plays a specified beep through internal Core2 Speaker
  * 
